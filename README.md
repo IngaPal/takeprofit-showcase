@@ -36,8 +36,9 @@ The original deployed website is **offline** (domain was not renewed), so this r
 ---
 
 ## Source code
-The full source code is kept in private repositories:
-- Frontend: `IngaPal/takeprofit-frontend` (private)
-- Backend: `IngaPal/takeprofit-backend` (private)
+The full source code is kept in private repositories (available on request):
+- Frontend: https://github.com/IngaPal/takeprofit-frontend
+- Backend: https://github.com/IngaPal/takeprofit-backend
+
 
 (Available on request.)
